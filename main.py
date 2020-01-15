@@ -1,8 +1,3 @@
-# Name: Fred Wang
-# Section: 003
-# Student number: 251103126
-# This code will analyze Twitter information and determine the 'happiness' of each region
-
 # imports
 from sentiment_analysis import compute_tweets
 
