@@ -1,2 +1,2 @@
 # Sentiment Analysis
-This program reads a given tweets file and keywords file and returns the average sentiment value of the tweets by region. If the given files are improperly formatted, or do not exist, the program will simply return an empty list. The program was written in Python.
+This program reads a given tweets text file and keywords text file and returns the average sentiment value of the tweets by region. Alongside the average sentiment value of the tweets in each region, it also displays how many total tweets there were in each region, as well as how many of the tweets contained the given keywords. If the given files are improperly formatted, or do not exist, the program will simply return an empty list. The program was written in Python.
